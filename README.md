@@ -4,7 +4,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript</code>
-<code>📦 Tech stack: HTML, CSS, JS</code>
+<code>📦 Tech stack: HTML/CSS(SCSS)/JS/Webpack</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@arzartden](https://telegram.me/arzartden)</code>
-<code>📫 [your-email](mailto:arzartden@gmail.com)</code>
+<code>📫 [arzartden@gmail.com](mailto:arzartden@gmail.com)</code>
