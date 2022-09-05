@@ -1,4 +1,4 @@
-#### <code>👷 Speciality: Frontend developer</code><br>
+#### <code>👷 Speciality: Frontend developer</code>
 #### <code>💡 [Skills](SKILLS.md)</code>
 #### <code>🧻 [Projects](PROJECTS.md)</code>
 #### <code>🧑‍💻 Languages: JavaScript</code>
