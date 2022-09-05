@@ -7,4 +7,4 @@
 <code>📦 Tech stack: HTML/CSS(SCSS)/JS/Webpack</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@arzartden](https://telegram.me/arzartden)</code>
-<code>📫 [arzartden@gmail.com](mailto:arzartden@gmail.com)</code>
+<code>📫 [arzartden@yandex.ru](mailto:arzartden@yandex.ru)</code>
