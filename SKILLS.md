@@ -1,35 +1,37 @@
+[block-level elements]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/block-model/theory_unit
+[inline elements]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/block-model/theory_unit
+[semantic HTML]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/semantic-html/theory_unit
+[basic HTML document structure]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/page-structure/theory_unit
+[CSS basics]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/css-intro/theory_unit
+[cascading in CSS]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/css-cascade/theory_unit
+[Chrome DevTools]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/devtools/theory_unit
+[Emmet]: https://ru.hexlet.io/courses/layout-designer-basics/lessons/emmet/theory_unit
+
+[box model]: https://ru.hexlet.io/courses/css-content/lessons/box-model/theory_unit
+[text styles]: https://ru.hexlet.io/courses/css-content/lessons/text/theory_unit
+[fonts]: https://ru.hexlet.io/courses/css-content/lessons/fonts/theory_unit
+[lists]: https://ru.hexlet.io/courses/css-content/lessons/list/theory_unit
+[columns]: https://ru.hexlet.io/courses/css-content/lessons/columns/theory_unit
+[CSS Units]: https://ru.hexlet.io/courses/css-content/lessons/units/theory_unit
+[media elements(img,video,audio)]: https://ru.hexlet.io/courses/css-content/lessons/media/theory_unit
+[tables]: https://ru.hexlet.io/courses/css-content/lessons/table/theory_unit
 # Personal skills profile of a frontend developer
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
 
 ## Basics of layout and positioning (working with HTML and CSS)
 
-| Basics of modern layout| Basics of content layout|                   |                     |                      |
-|----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟩 block-level elements| 🟩 box model               | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
-| 🟩 inline elements   | 🟩 text styles               | 🟦 function           | 🟦 instance         | 🟦 code review       |
-| 🟩 semantic HTML     | 🟩 fonts                     | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
-| 🟩 basic HTML document structure| 🟩 lists          | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
-| 🟩 CSS basics        | 🟩 columns                   | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
-| 🟩 cascading in CSS  | 🟦           | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
-| 🟩 Chrome DevTools   | 🟦                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
-| 🟩 Emmet             | 🟨             | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
-|                      | 🟨             | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-|                      | 🟨           | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-|                      | 🟦              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
-|                      | 🟦          | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
-|                      | 🟦  | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
-|                      | 🟦   | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
-|                      | 🟦   | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-|                      | 🟦     | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-|                      | 🟦             | ⬜ compose            | ⬜️ Symbol           | 🟦 linter            |
-|                      | 🟨           | ⬜️ memoize            | 🟨 string parsing   | ⬜️ prettier          |
-|                      |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
-|                      |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
-|                      |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
-|                      |                       | 🟨 default parameters | 🟨 global           | 🟨 node.js           |
-|                      |                       |                       | 🟨 undefined        | 🟨 npm               |
-|                      |                       |                       | 🟦 null             |                      |
+| Basics of modern layout| Basics of content layout|                     |                     |                      |
+|------------------------|-----------------------|-----------------------|---------------------|----------------------|
+| 🟩 [block-level elements]| 🟩 [box model]          | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [inline elements]     | 🟩 [text styles]        | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [semantic HTML]       | 🟩 [fonts]              | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [basic HTML document structure]| 🟩 [lists]     | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [CSS basics]          | 🟩 [columns]            | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟦                    | 🟦                  | 🟦                   |
+| 🟩 [Emmet]               | 🟩 [tables]                   | 🟦                    | 🟦                  | 🟦                   |
+
 
 ## Multi-paradigm programming
 
