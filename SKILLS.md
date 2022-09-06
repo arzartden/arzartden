@@ -1,6 +1,6 @@
-# Personal profile of software engineering skills
+# Personal skills profile of a frontend developer
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned, 🟥 Declined
+⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned
 
 ## Fundamental concepts
 
