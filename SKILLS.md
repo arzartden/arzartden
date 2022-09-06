@@ -1,36 +1,35 @@
 # Personal skills profile of a frontend developer
 
-⬜ Optional, 🟦 Required for all, 🟨 Required for js, 🟩 Learned
+⬜ Optional, 🟦 Required, 🟩 Learned
 
-## Fundamental concepts
+## Basics of layout and positioning (working with HTML and CSS)
 
-| Syntax               | Statements            | Functions             | Data structures     | Process & style      |
+| Basics of modern layout| Basics of content layout|                   |                     |                      |
 |----------------------|-----------------------|-----------------------|---------------------|----------------------|
-| 🟦 value             | 🟦 if                 | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
-| 🟦 identifier        | 🟦 loops              | 🟦 function           | 🟦 instance         | 🟦 code review       |
-| 🟦 variable          | 🟦 assignment         | 🟦 return             | 🟦 object           | 🟦 antipatterns      |
-| 🟦 constant          | 🟨 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
-| 🟦 scalar            | 🟦 class              | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
-| 🟦 literal           | 🟦 while              | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
-| 🟦 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
-| 🟦 heap              | 🟦 for                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
-| 🟦 type              | 🟨 for..in            | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
-| 🟦 primitive types   | 🟨 for..of            | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
-| 🟦 reference         | 🟨 for await          | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
-| 🟦 flag              | 🟦 throw              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
-| 🟦 lexical scope     | 🟦 try..catch         | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
-| 🟦 code block        | 🟦 equality operators | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
-| 🟨 Object            | 🟦 logical operators  | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
-| 🟨 this              | 🟦 bitwise operators  | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
-| 🟨 arrow function    | 🟦 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 generator         | 🟦 switch             | ⬜ compose            | ⬜️ Symbol           | 🟦 linter            |
-| 🟨 async function    | 🟨 new Error          | ⬜️ memoize            | 🟨 string parsing   | ⬜️ prettier          |
-| 🟨 call, bind, apply |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
-| 🟨 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
-| 🟨 instanceof        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
-| 🟨 ...spread         |                       | 🟨 default parameters | 🟨 global           | 🟨 node.js           |
-| 🟨 ...rest           |                       |                       | 🟨 undefined        | 🟨 npm               |
-| 🟨 typeof            |                       |                       | 🟦 null             |                      |
+| 🟩 block-level elements| 🟩 box model               | 🟦 recursion          | 🟦 array            | 🟦 refactoring       |
+| 🟩 inline elements   | 🟩 text styles               | 🟦 function           | 🟦 instance         | 🟦 code review       |
+| 🟩 semantic HTML     | 🟩 fonts                     | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
+| 🟩 basic HTML document structure| 🟩 lists          | 🟦 argument           | 🟦 hash table       | 🟦 algorithm         |
+| 🟩 CSS basics        | 🟩 columns                   | 🟦 parameter          | 🟦 linked list      | 🟦 magic numbers     |
+| 🟩 cascading in CSS  | 🟦           | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
+| 🟩 Chrome DevTools   | 🟦                | 🟦 lambda             | 🟦 stack            | 🟦 complexity        |
+| 🟩 Emmet             | 🟨             | 🟦 side effects       | 🟦 deque            | 🟦 decomposition     |
+|                      | 🟨             | 🟦 closure            | 🟦 serialization    | ⬜️ spaghetti         |
+|                      | 🟨           | 🟦 partial            | 🟦 mixin, extend    | ⬜️ silver bullet     |
+|                      | 🟦              | ⬜️ curry              | 🟨 iterator         | ⬜️ not invented here |
+|                      | 🟦          | 🟦 chaining           | 🟨 typed arrays     | 🟦 dead code         |
+|                      | 🟦  | 🟦 higher order       | 🟨 Map              | 🟦 unreachable code  |
+|                      | 🟦   | 🟦 callback           | 🟨 Set              | 🟦 duplicate code    |
+|                      | 🟦   | 🟦 listener           | ⬜️ weak collections | 🟦 exception         |
+|                      | 🟦     | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
+|                      | 🟦             | ⬜ compose            | ⬜️ Symbol           | 🟦 linter            |
+|                      | 🟨           | ⬜️ memoize            | 🟨 string parsing   | ⬜️ prettier          |
+|                      |                       | 🟦 factory            | 🟨 timers           | 🟦 unittest          |
+|                      |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
+|                      |                       | 🟦 wrapper            | 🟨 RegExp           | 🟦 github            |
+|                      |                       | 🟨 default parameters | 🟨 global           | 🟨 node.js           |
+|                      |                       |                       | 🟨 undefined        | 🟨 npm               |
+|                      |                       |                       | 🟦 null             |                      |
 
 ## Multi-paradigm programming
 
