@@ -16,12 +16,16 @@
 [media elements(img,video,audio)]: https://ru.hexlet.io/courses/css-content/lessons/media/theory_unit
 [tables]: https://ru.hexlet.io/courses/css-content/lessons/table/theory_unit
 [forms]: https://ru.hexlet.io/courses/css-content/lessons/forms/theory_unit
+[selectors]: https://ru.hexlet.io/courses/css-content/lessons/selectors/theory_unit
 
 [strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
 [variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
 [expressions]: https://ru.hexlet.io/courses/js-basics/lessons/variables-expression/theory_unit
 [interpolation]: https://ru.hexlet.io/courses/js-basics/lessons/interpolation/theory_unit
 [data types]: https://ru.hexlet.io/courses/js-basics/lessons/data-types/theory_unit
+[determinism]: https://ru.hexlet.io/courses/js-basics/lessons/deterministic/theory_unit
+[properties and methods]: https://ru.hexlet.io/courses/js-basics/lessons/properties-methods/theory_unit
+[method chaining]: https://ru.hexlet.io/courses/js-basics/lessons/methods-chain/theory_unit
 
 
 # Personal skills profile of a frontend developer
@@ -41,6 +45,7 @@
 | 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟦                    | 🟦                  | 🟦                   |
 | 🟩 [Emmet]               | 🟩 [tables]                   | 🟦                    | 🟦                  | 🟦                   |
 |                          | 🟩 [forms]                   | 🟦                    | 🟦                  | 🟦                   |
+|                          | 🟩 [selectors]               | 🟦                    | 🟦                  | 🟦                   |
 
 
 ## Basics of programming (JS)
@@ -52,10 +57,10 @@
 | 🟩 [expressions]               | 🟦 Static method      | ⬜ Immutable state   |                          |
 | 🟩 [interpolation]             | 🟦 Method             | ⬜ Enum              |                          |
 | 🟩 [data types]                | 🟦 Async method       | 🟦 Linked list       |                          |
-| 🟩                             | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
-| 🟦 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
-| ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
-| 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
+| 🟩 functions and their call, signature| 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
+| 🟩 [determinism]               | 🟦 Public fields      | 🟦 Unrolled list     |                          |
+| 🟩 [properties and methods]    | 🟦 Private fields     | 🟦 Circular list     |                          |
+| 🟩 [method chaining]           | 🟦 Field declarations | 🟦 Trees             |                          |
 | 🟦 Concurrent computing        | 🟦 Inheritance        | 🟦 Graphs            |                          |
 | 🟦 Asyncronous programming     | 🟦 Parent class       | 🟦 Functor           |                          |
 | 🟦 Parallel programming        | 🟦 Polymorphism       | 🟦 Functional object |                          |
