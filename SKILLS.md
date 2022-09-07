@@ -15,11 +15,20 @@
 [CSS Units]: https://ru.hexlet.io/courses/css-content/lessons/units/theory_unit
 [media elements(img,video,audio)]: https://ru.hexlet.io/courses/css-content/lessons/media/theory_unit
 [tables]: https://ru.hexlet.io/courses/css-content/lessons/table/theory_unit
+[forms]: https://ru.hexlet.io/courses/css-content/lessons/forms/theory_unit
+
+[strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
+[variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
+[expressions]: https://ru.hexlet.io/courses/js-basics/lessons/variables-expression/theory_unit
+[interpolation]: https://ru.hexlet.io/courses/js-basics/lessons/interpolation/theory_unit
+[data types]: https://ru.hexlet.io/courses/js-basics/lessons/data-types/theory_unit
+
+
 # Personal skills profile of a frontend developer
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
 
-## Basics of layout and positioning (working with HTML and CSS)
+## Basics of layout and positioning (HTML and CSS)
 
 | Basics of modern layout| Basics of content layout|                     |                     |                      |
 |------------------------|-----------------------|-----------------------|---------------------|----------------------|
@@ -31,18 +40,19 @@
 | 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟦                    | 🟦                  | 🟦                   |
 | 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟦                    | 🟦                  | 🟦                   |
 | 🟩 [Emmet]               | 🟩 [tables]                   | 🟦                    | 🟦                  | 🟦                   |
+|                          | 🟩 [forms]                   | 🟦                    | 🟦                  | 🟦                   |
 
 
-## Multi-paradigm programming
+## Basics of programming (JS)
 
-| Theory                         | OOP basics            | Abstractions         | Patterns                 |
+| Basics of the JavaScript language| OOP basics            | Abstractions         | Patterns                 |
 |--------------------------------|-----------------------|----------------------|--------------------------|
-| 🟦 Procedural programming      | 🟦 constructor        | ⬜ struct, record    | 🟦 Singleton             |
-| 🟦 Imperative programming      | 🟦 new                | ⬜ Mutable state     |                          |
-| 🟦 Structured programming      | 🟦 Static method      | ⬜ Immutable state   |                          |
-| 🟦 Non-structured programming  | 🟦 Method             | ⬜ Enum              |                          |
-| 🟦 Functional programming      | 🟦 Async method       | 🟦 Linked list       |                          |
-| 🟦 Prototype-based programming | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
+| 🟩 [strings]                   | 🟦 constructor        | ⬜ struct, record    | 🟦 Singleton             |
+| 🟩 [variables]                 | 🟦 new                | ⬜ Mutable state     |                          |
+| 🟩 [expressions]               | 🟦 Static method      | ⬜ Immutable state   |                          |
+| 🟩 [interpolation]             | 🟦 Method             | ⬜ Enum              |                          |
+| 🟩 [data types]                | 🟦 Async method       | 🟦 Linked list       |                          |
+| 🟩                             | 🟦 Getters, Setters   | 🟦 Doubly list       |                          |
 | 🟦 Object-oriented programming | 🟦 Public fields      | 🟦 Unrolled list     |                          |
 | ⬜ Object-based programming    | 🟦 Private fields     | 🟦 Circular list     |                          |
 | 🟦 Generic programming         | 🟦 Field declarations | 🟦 Trees             |                          |
