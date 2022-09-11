@@ -17,16 +17,28 @@
 [tables]: https://ru.hexlet.io/courses/css-content/lessons/table/theory_unit
 [forms]: https://ru.hexlet.io/courses/css-content/lessons/forms/theory_unit
 [selectors]: https://ru.hexlet.io/courses/css-content/lessons/selectors/theory_unit
+[pseudo-classes]: https://ru.hexlet.io/courses/css-content/lessons/pseudoclasses/theory_unit
+[pseudo-elements]: https://ru.hexlet.io/courses/css-content/lessons/pseudoelements/theory_unit
+[overflow]: https://ru.hexlet.io/courses/css-content/lessons/overflow/theory_unit
+[css variables]: https://ru.hexlet.io/courses/css-content/lessons/variables/theory_unit
+[background]: https://ru.hexlet.io/courses/css-content/lessons/background/theory_unit
+[gradient]: https://ru.hexlet.io/courses/css-content/lessons/gradient/theory_unit
 
 [strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
 [variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
 [expressions]: https://ru.hexlet.io/courses/js-basics/lessons/variables-expression/theory_unit
 [interpolation]: https://ru.hexlet.io/courses/js-basics/lessons/interpolation/theory_unit
 [data types]: https://ru.hexlet.io/courses/js-basics/lessons/data-types/theory_unit
+[functions and their call]: https://ru.hexlet.io/courses/js-basics/lessons/calling-functions/theory_unit
+[signature]: https://ru.hexlet.io/courses/js-basics/lessons/signature/theory_unit
 [determinism]: https://ru.hexlet.io/courses/js-basics/lessons/deterministic/theory_unit
 [properties and methods]: https://ru.hexlet.io/courses/js-basics/lessons/properties-methods/theory_unit
 [method chaining]: https://ru.hexlet.io/courses/js-basics/lessons/methods-chain/theory_unit
-
+[defining functions]: https://ru.hexlet.io/courses/js-basics/lessons/functions-define/theory_unit
+[returning function values]: https://ru.hexlet.io/courses/js-basics/lessons/functions-return/theory_unit
+[function parameters]: https://ru.hexlet.io/courses/js-basics/lessons/functions-parameters/theory_unit
+[default function parameters]: https://ru.hexlet.io/courses/js-basics/lessons/functions-default-parameters/theory_unit
+[simplified function syntax]: https://ru.hexlet.io/courses/js-basics/lessons/functions-short-syntax/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -34,8 +46,8 @@
 
 ## Basics of layout and positioning (HTML and CSS)
 
-| Basics of modern layout| Basics of content layout|
-|------------------------|-----------------------|
+| Basics of modern layout| Basics of content layout  |
+|------------------------|---------------------------|
 | 🟩 [block-level elements]| 🟩 [box model]          |
 | 🟩 [inline elements]     | 🟩 [text styles]        |
 | 🟩 [semantic HTML]       | 🟩 [fonts]              | 
@@ -43,10 +55,15 @@
 | 🟩 [CSS basics]          | 🟩 [columns]            |
 | 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 
 | 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 
-| 🟩 [Emmet]               | 🟩 [tables]                   |
-|                          | 🟩 [forms]                   |
-|                          | 🟩 [selectors]               |
-
+| 🟩 [Emmet]               | 🟩 [tables]             |
+|                          | 🟩 [forms]              |
+|                          | 🟩 [selectors]          |
+|                          | 🟩 [pseudo-classes]     |
+|                          | 🟩 [pseudo-elements]    |
+|                          | 🟩 [overflow]           |
+|                          | 🟩 [CSS variables]      |
+|                          | 🟩 [background]         |
+|                          | 🟩 [gradient]           |
 
 ## Basics of programming (JS)
 
@@ -57,7 +74,12 @@
 | 🟩 [expressions]               | 
 | 🟩 [interpolation]             | 
 | 🟩 [data types]                | 
-| 🟩 functions and their call, signature|
+| 🟩 [functions and their call], [signature]|
 | 🟩 [determinism]               |
 | 🟩 [properties and methods]    | 
-| 🟩 [method chaining]           | 
+| 🟩 [method chaining]           |
+| 🟩 [defining functions]        |
+| 🟩 [returning function values] |
+| 🟩 [function parameters]       |
+| 🟩 [default function parameters]|
+| 🟩 [simplified function syntax]|
