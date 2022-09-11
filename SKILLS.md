@@ -39,6 +39,10 @@
 [function parameters]: https://ru.hexlet.io/courses/js-basics/lessons/functions-parameters/theory_unit
 [default function parameters]: https://ru.hexlet.io/courses/js-basics/lessons/functions-default-parameters/theory_unit
 [simplified function syntax]: https://ru.hexlet.io/courses/js-basics/lessons/functions-short-syntax/theory_unit
+[logical operations]: https://ru.hexlet.io/courses/js-basics/lessons/logical-operations/theory_unit
+[logical operators]: https://ru.hexlet.io/courses/js-basics/lessons/logical-operators/theory_unit
+[logical expressions]: https://ru.hexlet.io/courses/js-basics/lessons/logical-expressions/theory_unit
+[conditional constructions]: https://ru.hexlet.io/courses/js-basics/lessons/conditionals/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -83,3 +87,7 @@
 | 🟩 [function parameters]       |
 | 🟩 [default function parameters]|
 | 🟩 [simplified function syntax]|
+| 🟩 [logical operations]        |
+| 🟩 [logical operators]         |
+| 🟩 [logical expressions]       |
+| 🟩 [conditional constructions] |
