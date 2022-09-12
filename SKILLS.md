@@ -49,6 +49,9 @@
 [aggregation]: https://ru.hexlet.io/courses/js-basics/lessons/aggregation/theory_unit
 [iteration over strings]: https://ru.hexlet.io/courses/js-basics/lessons/iteration-over-strings/theory_unit
 [conditions inside loops]: https://ru.hexlet.io/courses/js-basics/lessons/conditions-inside-loops/theory_unit
+[increment and decrement]: https://ru.hexlet.io/courses/js-basics/lessons/mutators/theory_unit
+[for]: https://ru.hexlet.io/courses/js-basics/lessons/for/theory_unit
+[modules]: https://ru.hexlet.io/courses/js-basics/lessons/modules/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -103,3 +106,6 @@
 | 🟩 [aggregation]               |
 | 🟩 [iteration over strings]    |
 | 🟩 [conditions inside loops]   |
+| 🟩 [increment and decrement]   |
+| 🟩 [for]                       |
+| 🟩 [modules]                   |
