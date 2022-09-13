@@ -24,6 +24,14 @@
 [background]: https://ru.hexlet.io/courses/css-content/lessons/background/theory_unit
 [gradient]: https://ru.hexlet.io/courses/css-content/lessons/gradient/theory_unit
 
+[normal flow]: https://ru.hexlet.io/courses/css-positioning/lessons/flow/theory_unit
+[relative]: https://ru.hexlet.io/courses/css-positioning/lessons/relative/theory_unit
+[absolute]: https://ru.hexlet.io/courses/css-positioning/lessons/absolute/theory_unit
+[relative and absolute]: https://ru.hexlet.io/courses/css-positioning/lessons/relative-and-absolute/theory_unit
+[fixed]: https://ru.hexlet.io/courses/css-positioning/lessons/fixed/theory_unit
+[float]: https://ru.hexlet.io/courses/css-positioning/lessons/float/theory_unit
+[z-index]: https://ru.hexlet.io/courses/css-positioning/lessons/z-index/theory_unit
+
 [strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
 [variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
 [expressions]: https://ru.hexlet.io/courses/js-basics/lessons/variables-expression/theory_unit
@@ -59,15 +67,15 @@
 
 ## Basics of layout and positioning (HTML and CSS)
 
-| Basics of modern layout| Basics of content layout  |
-|------------------------|---------------------------|
-| 🟩 [block-level elements]| 🟩 [box model]          |
-| 🟩 [inline elements]     | 🟩 [text styles]        |
-| 🟩 [semantic HTML]       | 🟩 [fonts]              | 
-| 🟩 [basic HTML document structure]| 🟩 [lists]     |
-| 🟩 [CSS basics]          | 🟩 [columns]            |
-| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 
-| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 
+| Basics of modern layout| Basics of content layout  | CSS: Positioning elements|
+|------------------------|---------------------------|-------------------------|
+| 🟩 [block-level elements]| 🟩 [box model]          | 🟩 [normal flow]        |
+| 🟩 [inline elements]     | 🟩 [text styles]        | 🟩 [relative]           |
+| 🟩 [semantic HTML]       | 🟩 [fonts]              | 🟩 [absolute]           |
+| 🟩 [basic HTML document structure]| 🟩 [lists]     | 🟩 [relative and absolute]|
+| 🟩 [CSS basics]          | 🟩 [columns]            | 🟩 [fixed]              |
+| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟩 [float]              |
+| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟩 [z-index]| 
 | 🟩 [Emmet]               | 🟩 [tables]             |
 |                          | 🟩 [forms]              |
 |                          | 🟩 [selectors]          |
