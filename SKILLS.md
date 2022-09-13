@@ -61,6 +61,12 @@
 [for]: https://ru.hexlet.io/courses/js-basics/lessons/for/theory_unit
 [modules]: https://ru.hexlet.io/courses/js-basics/lessons/modules/theory_unit
 
+[syntax]: https://ru.hexlet.io/courses/js-arrays/lessons/syntax/theory_unit
+[modification]: https://ru.hexlet.io/courses/js-arrays/lessons/modification/theory_unit
+[existence of a value]: https://ru.hexlet.io/courses/js-arrays/lessons/isset/theory_unit
+[for]: https://ru.hexlet.io/courses/js-arrays/lessons/for/theory_unit
+[references]: https://ru.hexlet.io/courses/js-arrays/lessons/references/theory_unit
+
 # Personal skills profile of a frontend developer
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
@@ -88,18 +94,18 @@
 
 ## Basics of programming (JS)
 
-| Basics of the JavaScript language|
-|--------------------------------|
-| 🟩 [strings]                   | 
-| 🟩 [variables]                 | 
-| 🟩 [expressions]               | 
-| 🟩 [interpolation]             | 
-| 🟩 [data types]                | 
-| 🟩 [functions and their call], [signature]|
-| 🟩 [determinism]               |
-| 🟩 [properties and methods]    | 
-| 🟩 [method chaining]           |
-| 🟩 [defining functions]        |
+| Basics of the JavaScript language|JS: Arrays          |
+|--------------------------------|----------------------|
+| 🟩 [strings]                   | 🟩 [syntax]| 
+| 🟩 [variables]                 | 🟩 [modification]| 
+| 🟩 [expressions]               | 🟩 [existence of a value]| 
+| 🟩 [interpolation]             | 🟩 [for]                 | 
+| 🟩 [data types]                | 🟩 [references]          | 
+| 🟩 [functions and their call], [signature]| 🟩 |
+| 🟩 [determinism]               | 🟩 |
+| 🟩 [properties and methods]    | 🟩 | 
+| 🟩 [method chaining]           | 🟩 |
+| 🟩 [defining functions]        | 🟩 |
 | 🟩 [returning function values] |
 | 🟩 [function parameters]       |
 | 🟩 [default function parameters]|
