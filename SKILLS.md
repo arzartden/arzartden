@@ -82,6 +82,8 @@
 [generating a string in a loop]: https://ru.hexlet.io/courses/js-arrays/lessons/build-strings/theory_unit
 [converting a string to an array]: https://ru.hexlet.io/courses/js-arrays/lessons/strings/theory_unit
 [nested loops]: https://ru.hexlet.io/courses/js-arrays/lessons/nested-loops/theory_unit
+[set theory]: https://ru.hexlet.io/courses/js-arrays/lessons/set-theory/theory_unit
+[sorting]: https://ru.hexlet.io/courses/js-arrays/lessons/sorting/exercise_unit
 
 # Personal skills profile of a frontend developer
 
@@ -125,8 +127,8 @@
 | 🟩 [returning function values] | 🟩 [generating a string in a loop]|
 | 🟩 [function parameters]       | 🟩 [converting a string to an array]|
 | 🟩 [default function parameters]| 🟩 [nested loops]|
-| 🟩 [simplified function syntax]| 🟩 |
-| 🟩 [logical operations]        | 🟩 |
+| 🟩 [simplified function syntax]| 🟩 [set theory]|
+| 🟩 [logical operations]        | 🟩 [sorting]|
 | 🟩 [logical operators]         | 🟩 |
 | 🟩 [logical expressions]       | 🟩 |
 | 🟩 [conditional constructions] |
