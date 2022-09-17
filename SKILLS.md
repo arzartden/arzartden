@@ -32,6 +32,11 @@
 [float]: https://ru.hexlet.io/courses/css-positioning/lessons/float/theory_unit
 [z-index]: https://ru.hexlet.io/courses/css-positioning/lessons/z-index/theory_unit
 
+[flex container]: https://ru.hexlet.io/courses/css-flex/lessons/container/theory_unit
+[wrap]: https://ru.hexlet.io/courses/css-flex/lessons/wrap/theory_unit
+[justify-content]: https://ru.hexlet.io/courses/css-flex/lessons/justify-content/theory_unit
+[align-items]: https://ru.hexlet.io/courses/css-flex/lessons/align-items/theory_unit
+
 [strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
 [variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
 [expressions]: https://ru.hexlet.io/courses/js-basics/lessons/variables-expression/theory_unit
@@ -69,6 +74,11 @@
 [aggregation]: https://ru.hexlet.io/courses/js-arrays/lessons/aggregation/theory_unit
 [for...of]: https://ru.hexlet.io/courses/js-arrays/lessons/for-of/theory_unit
 [deleting array elements]: https://ru.hexlet.io/courses/js-arrays/lessons/removing/theory_unit
+[control statements]: https://ru.hexlet.io/courses/js-arrays/lessons/control-statements/theory_unit
+[nested arrays]: https://ru.hexlet.io/courses/js-arrays/lessons/nested-arrays/theory_unit
+[generating a string in a loop]: https://ru.hexlet.io/courses/js-arrays/lessons/build-strings/theory_unit
+[converting a string to an array]: https://ru.hexlet.io/courses/js-arrays/lessons/strings/theory_unit
+[nested loops]: https://ru.hexlet.io/courses/js-arrays/lessons/nested-loops/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -76,15 +86,15 @@
 
 ## Basics of layout and positioning (HTML and CSS)
 
-| Basics of modern layout| Basics of content layout  | CSS: Positioning elements|
-|------------------------|---------------------------|-------------------------|
-| 🟩 [block-level elements]| 🟩 [box model]          | 🟩 [normal flow]        |
-| 🟩 [inline elements]     | 🟩 [text styles]        | 🟩 [relative]           |
-| 🟩 [semantic HTML]       | 🟩 [fonts]              | 🟩 [absolute]           |
-| 🟩 [basic HTML document structure]| 🟩 [lists]     | 🟩 [relative and absolute]|
-| 🟩 [CSS basics]          | 🟩 [columns]            | 🟩 [fixed]              |
-| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟩 [float]              |
-| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟩 [z-index]| 
+| Basics of modern layout| Basics of content layout  | CSS: Positioning elements|CSS: Flex Basics        |
+|------------------------|---------------------------|-------------------------|-------------------------|
+| 🟩 [block-level elements]| 🟩 [box model]          | 🟩 [normal flow]        | 🟩 [flex container]     |
+| 🟩 [inline elements]     | 🟩 [text styles]        | 🟩 [relative]           | 🟩 [wrap]               |
+| 🟩 [semantic HTML]       | 🟩 [fonts]              | 🟩 [absolute]           | 🟩 [justify-content]    |
+| 🟩 [basic HTML document structure]| 🟩 [lists]     | 🟩 [relative and absolute]| 🟩 [align-items]      |
+| 🟩 [CSS basics]          | 🟩 [columns]            | 🟩 [fixed]              | 🟩 |
+| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟩 [float]              | 🟩 |
+| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟩 [z-index]| 🟩 | 
 | 🟩 [Emmet]               | 🟩 [tables]             |
 |                          | 🟩 [forms]              |
 |                          | 🟩 [selectors]          |
@@ -107,15 +117,15 @@
 | 🟩 [functions and their call], [signature]| 🟩 [aggregation]|
 | 🟩 [determinism]               | 🟩 [for...of]|
 | 🟩 [properties and methods]    | 🟩 [deleting array elements]| 
-| 🟩 [method chaining]           | 🟩 |
-| 🟩 [defining functions]        | 🟩 |
-| 🟩 [returning function values] |
-| 🟩 [function parameters]       |
-| 🟩 [default function parameters]|
-| 🟩 [simplified function syntax]|
-| 🟩 [logical operations]        |
-| 🟩 [logical operators]         |
-| 🟩 [logical expressions]       |
+| 🟩 [method chaining]           | 🟩 [control statements]|
+| 🟩 [defining functions]        | 🟩 [nested arrays]|
+| 🟩 [returning function values] | 🟩 [generating a string in a loop]|
+| 🟩 [function parameters]       | 🟩 [converting a string to an array]|
+| 🟩 [default function parameters]| 🟩 [nested loops]|
+| 🟩 [simplified function syntax]| 🟩 |
+| 🟩 [logical operations]        | 🟩 |
+| 🟩 [logical operators]         | 🟩 |
+| 🟩 [logical expressions]       | 🟩 |
 | 🟩 [conditional constructions] |
 | 🟩 [ternary operator]          |
 | 🟩 [switch]                    |
