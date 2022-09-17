@@ -66,6 +66,9 @@
 [existence of a value]: https://ru.hexlet.io/courses/js-arrays/lessons/isset/theory_unit
 [for]: https://ru.hexlet.io/courses/js-arrays/lessons/for/theory_unit
 [references]: https://ru.hexlet.io/courses/js-arrays/lessons/references/theory_unit
+[aggregation]: https://ru.hexlet.io/courses/js-arrays/lessons/aggregation/theory_unit
+[for...of]: https://ru.hexlet.io/courses/js-arrays/lessons/for-of/theory_unit
+[deleting array elements]: https://ru.hexlet.io/courses/js-arrays/lessons/removing/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -101,9 +104,9 @@
 | 🟩 [expressions]               | 🟩 [existence of a value]| 
 | 🟩 [interpolation]             | 🟩 [for]                 | 
 | 🟩 [data types]                | 🟩 [references]          | 
-| 🟩 [functions and their call], [signature]| 🟩 |
-| 🟩 [determinism]               | 🟩 |
-| 🟩 [properties and methods]    | 🟩 | 
+| 🟩 [functions and their call], [signature]| 🟩 [aggregation]|
+| 🟩 [determinism]               | 🟩 [for...of]|
+| 🟩 [properties and methods]    | 🟩 [deleting array elements]| 
 | 🟩 [method chaining]           | 🟩 |
 | 🟩 [defining functions]        | 🟩 |
 | 🟩 [returning function values] |
