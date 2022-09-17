@@ -32,10 +32,13 @@
 [float]: https://ru.hexlet.io/courses/css-positioning/lessons/float/theory_unit
 [z-index]: https://ru.hexlet.io/courses/css-positioning/lessons/z-index/theory_unit
 
-[flex container]: https://ru.hexlet.io/courses/css-flex/lessons/container/theory_unit
+[flex container, flex-direction]: https://ru.hexlet.io/courses/css-flex/lessons/container/theory_unit
 [wrap]: https://ru.hexlet.io/courses/css-flex/lessons/wrap/theory_unit
 [justify-content]: https://ru.hexlet.io/courses/css-flex/lessons/justify-content/theory_unit
 [align-items]: https://ru.hexlet.io/courses/css-flex/lessons/align-items/theory_unit
+[flex-grow]: https://ru.hexlet.io/courses/css-flex/lessons/flex-grow/theory_unit
+[flex-shrink, flex-basis]: https://ru.hexlet.io/courses/css-flex/lessons/items-flexible/theory_unit
+[order, align-self]: https://ru.hexlet.io/courses/css-flex/lessons/items-position/theory_unit
 
 [strings]: https://ru.hexlet.io/courses/js-basics/lessons/strings/theory_unit
 [variables]: https://ru.hexlet.io/courses/js-basics/lessons/variables/theory_unit
@@ -88,13 +91,13 @@
 
 | Basics of modern layout| Basics of content layout  | CSS: Positioning elements|CSS: Flex Basics        |
 |------------------------|---------------------------|-------------------------|-------------------------|
-| 🟩 [block-level elements]| 🟩 [box model]          | 🟩 [normal flow]        | 🟩 [flex container]     |
+| 🟩 [block-level elements]| 🟩 [box model]          | 🟩 [normal flow]        | 🟩 [flex container, flex-direction]|
 | 🟩 [inline elements]     | 🟩 [text styles]        | 🟩 [relative]           | 🟩 [wrap]               |
 | 🟩 [semantic HTML]       | 🟩 [fonts]              | 🟩 [absolute]           | 🟩 [justify-content]    |
 | 🟩 [basic HTML document structure]| 🟩 [lists]     | 🟩 [relative and absolute]| 🟩 [align-items]      |
-| 🟩 [CSS basics]          | 🟩 [columns]            | 🟩 [fixed]              | 🟩 |
-| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟩 [float]              | 🟩 |
-| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟩 [z-index]| 🟩 | 
+| 🟩 [CSS basics]          | 🟩 [columns]            | 🟩 [fixed]              | 🟩 [flex-grow]          |
+| 🟩 [cascading in CSS]    | 🟩 [CSS units]          | 🟩 [float]              | 🟩 [flex-shrink, flex-basis]|
+| 🟩 [Chrome DevTools]     | 🟩 [media elements(img,video,audio)]| 🟩 [z-index]| 🟩 [order, align-self]  | 
 | 🟩 [Emmet]               | 🟩 [tables]             |
 |                          | 🟩 [forms]              |
 |                          | 🟩 [selectors]          |
