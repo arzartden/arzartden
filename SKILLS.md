@@ -86,6 +86,10 @@
 [sorting]: https://ru.hexlet.io/courses/js-arrays/lessons/sorting/theory_unit
 [stack]: https://ru.hexlet.io/courses/js-arrays/lessons/stack/theory_unit
 [big O]: https://ru.hexlet.io/courses/js-arrays/lessons/big-o/theory_unit
+[destructuring assignment]: https://ru.hexlet.io/courses/js-arrays/lessons/destructuring/theory_unit
+[rest operator]: https://ru.hexlet.io/courses/js-arrays/lessons/rest-operator/theory_unit
+[spread operator]: https://ru.hexlet.io/courses/js-arrays/lessons/spread-operator/theory_unit
+[arrays in computer memory]: https://ru.hexlet.io/courses/js-arrays/lessons/implementation/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -133,10 +137,10 @@
 | 🟩 [logical operations]        | 🟩 [sorting]|
 | 🟩 [logical operators]         | 🟩 [stack]|
 | 🟩 [logical expressions]       | 🟩 [big O]|
-| 🟩 [conditional constructions] |
-| 🟩 [ternary operator]          |
-| 🟩 [switch]                    |
-| 🟩 [while]                     |
+| 🟩 [conditional constructions] | 🟩 [destructuring assignment]|
+| 🟩 [ternary operator]          | 🟩 [rest operator]|
+| 🟩 [switch]                    | 🟩 [spread operator]|
+| 🟩 [while]                     | 🟩 [arrays in computer memory]|
 | 🟩 [aggregation]               |
 | 🟩 [iteration over strings]    |
 | 🟩 [conditions inside loops]   |
