@@ -83,7 +83,9 @@
 [converting a string to an array]: https://ru.hexlet.io/courses/js-arrays/lessons/strings/theory_unit
 [nested loops]: https://ru.hexlet.io/courses/js-arrays/lessons/nested-loops/theory_unit
 [set theory]: https://ru.hexlet.io/courses/js-arrays/lessons/set-theory/theory_unit
-[sorting]: https://ru.hexlet.io/courses/js-arrays/lessons/sorting/exercise_unit
+[sorting]: https://ru.hexlet.io/courses/js-arrays/lessons/sorting/theory_unit
+[stack]: https://ru.hexlet.io/courses/js-arrays/lessons/stack/theory_unit
+[big O]: https://ru.hexlet.io/courses/js-arrays/lessons/big-o/theory_unit
 
 # Personal skills profile of a frontend developer
 
@@ -129,8 +131,8 @@
 | 🟩 [default function parameters]| 🟩 [nested loops]|
 | 🟩 [simplified function syntax]| 🟩 [set theory]|
 | 🟩 [logical operations]        | 🟩 [sorting]|
-| 🟩 [logical operators]         | 🟩 |
-| 🟩 [logical expressions]       | 🟩 |
+| 🟩 [logical operators]         | 🟩 [stack]|
+| 🟩 [logical expressions]       | 🟩 [big O]|
 | 🟩 [conditional constructions] |
 | 🟩 [ternary operator]          |
 | 🟩 [switch]                    |
