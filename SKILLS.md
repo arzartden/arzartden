@@ -91,6 +91,8 @@
 [spread operator]: https://ru.hexlet.io/courses/js-arrays/lessons/spread-operator/theory_unit
 [arrays in computer memory]: https://ru.hexlet.io/courses/js-arrays/lessons/implementation/theory_unit
 
+[command line basics]: https://ru.hexlet.io/courses/cli-basics
+
 # Personal skills profile of a frontend developer
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
@@ -118,9 +120,9 @@
 
 ## Basics of programming (JS)
 
-| Basics of the JavaScript language|JS: Arrays          |
-|--------------------------------|----------------------|
-| 🟩 [strings]                   | 🟩 [syntax]| 
+| Basics of the JavaScript language|JS: Arrays          |Additional topics      |
+|--------------------------------|----------------------|-----------------------|
+| 🟩 [strings]                   | 🟩 [syntax]          | 🟩 [command line basics]|
 | 🟩 [variables]                 | 🟩 [modification]| 
 | 🟩 [expressions]               | 🟩 [existence of a value]| 
 | 🟩 [interpolation]             | 🟩 [for]                 | 
