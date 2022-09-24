@@ -92,6 +92,7 @@
 [arrays in computer memory]: https://ru.hexlet.io/courses/js-arrays/lessons/implementation/theory_unit
 
 [command line basics]: https://ru.hexlet.io/courses/cli-basics
+[introduction to Git]: https://ru.hexlet.io/courses/intro_to_git
 
 # Personal skills profile of a frontend developer
 
@@ -123,7 +124,7 @@
 | Basics of the JavaScript language|JS: Arrays          |Additional topics      |
 |--------------------------------|----------------------|-----------------------|
 | 🟩 [strings]                   | 🟩 [syntax]          | 🟩 [command line basics]|
-| 🟩 [variables]                 | 🟩 [modification]| 
+| 🟩 [variables]                 | 🟩 [modification]| 🟩 [introduction to Git]    | 
 | 🟩 [expressions]               | 🟩 [existence of a value]| 
 | 🟩 [interpolation]             | 🟩 [for]                 | 
 | 🟩 [data types]                | 🟩 [references]          | 
