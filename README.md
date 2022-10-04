@@ -1,4 +1,4 @@
-<div align="center">
+
 
   ### <code>👷 Speciality: Front-end Developer</code>
   ### <code>🧑‍💻 Languages: JavaScript</code>
@@ -7,5 +7,3 @@
   ### <code>📫 [arzartden@yandex.ru](mailto:arzartden@yandex.ru)</code>
   ### <code>💡 [Skills](SKILLS.md)</code>
   ### <code>🧻 [Projects](PROJECTS.md)</code>
-
-</div>
