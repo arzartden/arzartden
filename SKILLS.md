@@ -98,7 +98,7 @@
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
 
-## Basics of layout and positioning (HTML and CSS)
+## Module 1: Basics of layout and positioning (HTML and CSS)
 
 | Basics of modern layout| Basics of content layout  | CSS: Positioning elements|CSS: Flex Basics        |
 |------------------------|---------------------------|-------------------------|-------------------------|
@@ -119,7 +119,7 @@
 |                          | 🟩 [background]         |
 |                          | 🟩 [gradient]           |
 
-## Basics of programming (JS)
+## Module 2: Basics of programming (JS)
 
 | Basics of the JavaScript language|JS: Arrays          |Additional topics      |
 |--------------------------------|----------------------|-----------------------|
@@ -150,3 +150,9 @@
 | 🟩 [increment and decrement]   |
 | 🟩 [for]                       |
 | 🟩 [modules]                   |
+
+## Module 3: Professional JavaScript
+
+|JS: Objects              |
+|-------------------------|
+||
