@@ -4,8 +4,6 @@
 </h1>
 
 <div align="center">
-
-  <br>
   
   ### <code>👷 My Speciality: Front-end Developer</code>
   ### <code>📦 My Tech Stack: HTML, CSS(SCSS), JS, Webpack</code>
