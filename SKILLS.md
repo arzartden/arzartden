@@ -94,6 +94,12 @@
 [command line basics]: https://ru.hexlet.io/courses/cli-basics
 [introduction to Git]: https://ru.hexlet.io/courses/intro_to_git
 
+[syntax]: https://ru.hexlet.io/courses/js-objects/lessons/syntax/theory_unit
+[modification]: https://ru.hexlet.io/courses/js-objects/lessons/modifications/theory_unit
+[reference type]: https://ru.hexlet.io/courses/js-objects/lessons/references/theory_unit
+[usage]: https://ru.hexlet.io/courses/js-objects/lessons/using/theory_unit
+[existence of a property]: https://ru.hexlet.io/courses/js-objects/lessons/property-existence/theory_unit
+
 # Personal skills profile of a frontend developer
 
 ⬜ Optional, 🟦 Required, 🟩 Learned
@@ -155,4 +161,8 @@
 
 |JS: Objects              |
 |-------------------------|
-||
+| 🟩 [syntax]             |
+| 🟩 [modification]       |
+| 🟩 [reference type]         |
+| 🟩 [usage]              |
+| 🟩 [existence of a property]|
