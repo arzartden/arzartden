@@ -1,4 +1,6 @@
 <div align="center">
+
+  <br>
   
   |👷 Speciality: Front-end Developer | 🧑‍💻 Languages: JavaScript |📦 Tech stack: HTML, CSS(SCSS), JS, Webpack|
   |-----------------------------------|--------------------------|-------------------------------------------|
