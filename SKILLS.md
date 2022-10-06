@@ -100,11 +100,21 @@
 [usage]: https://ru.hexlet.io/courses/js-objects/lessons/using/theory_unit
 [existence of a property]: https://ru.hexlet.io/courses/js-objects/lessons/property-existence/theory_unit
 
-# Personal skills profile of a frontend developer
+<h1 align="center">
+  Personal skills profile
+</h1>
 
-⬜ Optional, 🟦 Required, 🟩 Learned
+<br>
 
-## Module 1: Basics of layout and positioning (HTML and CSS)
+<div align="center">
+  ⬜ Optional &nbsp;&nbsp; 🟦 Required &nbsp;&nbsp; 🟩 Learned
+</div>
+
+<br>
+
+<h2 align="center">
+  Module 1: Basics of layout and positioning (HTML and CSS)
+</h2>
 
 | Basics of modern layout| Basics of content layout  | CSS: Positioning elements|CSS: Flex Basics        |
 |------------------------|---------------------------|-------------------------|-------------------------|
@@ -125,7 +135,11 @@
 |                          | 🟩 [background]         |
 |                          | 🟩 [gradient]           |
 
-## Module 2: Basics of programming (JS)
+<br>
+
+<h2 align="center">
+  Module 2: Basics of programming (JS)
+</h2>
 
 | Basics of the JavaScript language|JS: Arrays          |Additional topics      |
 |--------------------------------|----------------------|-----------------------|
@@ -157,7 +171,11 @@
 | 🟩 [for]                       |
 | 🟩 [modules]                   |
 
-## Module 3: Professional JavaScript
+<br>
+
+<h2 align="center">
+  Module 3: Professional JavaScript
+</h2>
 
 |JS: Objects              |
 |-------------------------|
