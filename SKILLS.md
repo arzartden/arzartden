@@ -101,6 +101,7 @@
 [existence of a property]: https://ru.hexlet.io/courses/js-objects/lessons/property-existence/theory_unit
 [traversing object properties]: https://ru.hexlet.io/courses/js-objects/lessons/for-of/theory_unit
 [nested objects]: https://ru.hexlet.io/courses/js-objects/lessons/nested-objects/theory_unit
+[merge]: https://ru.hexlet.io/courses/js-objects/lessons/merging/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -188,3 +189,4 @@
 | 🟩 [existence of a property]|
 | 🟩 [traversing object properties]|
 | 🟩 [nested objects]     |
+| 🟩 [merge]              |
