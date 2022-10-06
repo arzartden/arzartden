@@ -99,6 +99,8 @@
 [reference type]: https://ru.hexlet.io/courses/js-objects/lessons/references/theory_unit
 [usage]: https://ru.hexlet.io/courses/js-objects/lessons/using/theory_unit
 [existence of a property]: https://ru.hexlet.io/courses/js-objects/lessons/property-existence/theory_unit
+[traversing object properties]: https://ru.hexlet.io/courses/js-objects/lessons/for-of/theory_unit
+[nested objects]: https://ru.hexlet.io/courses/js-objects/lessons/nested-objects/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -181,6 +183,8 @@
 |-------------------------|
 | 🟩 [syntax]             |
 | 🟩 [modification]       |
-| 🟩 [reference type]         |
+| 🟩 [reference type]     |
 | 🟩 [usage]              |
 | 🟩 [existence of a property]|
+| 🟩 [traversing object properties]|
+| 🟩 [nested objects]     |
