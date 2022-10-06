@@ -5,9 +5,9 @@
 
 <div align="center">
   
-  ### <code>👷 My Speciality: Front-end Developer</code>
+  ### <code>👨‍💻 My Speciality: Front-end Developer</code>
   ### <code>📦 My Tech Stack: HTML, CSS(SCSS), JS, Webpack</code>
-  ### <code>💡 [My Skills](SKILLS.md)</code> &nbsp;&nbsp;&nbsp; <code>🧻 [My Projects](PROJECTS.md)</code>
+  ### <code>💡 [My Skills](SKILLS.md)</code> &nbsp;&nbsp;&nbsp; <code>📁 [My Projects](PROJECTS.md)</code>
   <br>
   <div id="badges">
     <a href="https://telegram.me/arzartden">
