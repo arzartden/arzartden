@@ -11,7 +11,7 @@
   <br>
   <div id="badges">
     <a href="https://telegram.me/arzartden">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:arzartden@gmail.com">
