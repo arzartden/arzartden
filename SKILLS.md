@@ -103,6 +103,7 @@
 [nested objects]: https://ru.hexlet.io/courses/js-objects/lessons/nested-objects/theory_unit
 [merge]: https://ru.hexlet.io/courses/js-objects/lessons/merging/theory_unit
 [cloning]: https://ru.hexlet.io/courses/js-objects/lessons/cloning/theory_unit
+[spread]: https://ru.hexlet.io/courses/js-objects/lessons/spread-operator/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -192,3 +193,4 @@
 | 🟩 [nested objects]     |
 | 🟩 [merge]              |
 | 🟩 [cloning]            |
+| 🟩 [spread]             |
