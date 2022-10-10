@@ -104,6 +104,8 @@
 [merge]: https://ru.hexlet.io/courses/js-objects/lessons/merging/theory_unit
 [cloning]: https://ru.hexlet.io/courses/js-objects/lessons/cloning/theory_unit
 [spread]: https://ru.hexlet.io/courses/js-objects/lessons/spread-operator/theory_unit
+[destructurization]: https://ru.hexlet.io/courses/js-objects/lessons/destructuring/theory_unit
+[hash tables]: https://ru.hexlet.io/courses/js-objects/lessons/hash-table/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -194,3 +196,5 @@
 | 🟩 [merge]              |
 | 🟩 [cloning]            |
 | 🟩 [spread]             |
+| 🟩 [destructurization]  |
+| 🟩 [hash tables]        |
