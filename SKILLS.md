@@ -107,6 +107,14 @@
 [destructurization]: https://ru.hexlet.io/courses/js-objects/lessons/destructuring/theory_unit
 [hash tables]: https://ru.hexlet.io/courses/js-objects/lessons/hash-table/theory_unit
 
+[pure functions]: https://ru.hexlet.io/courses/js-functions/lessons/pure-functions/theory_unit
+[separation of commands and requests]: https://ru.hexlet.io/courses/js-functions/lessons/command-query-separation/theory_unit
+[rest operator]: https://ru.hexlet.io/courses/js-functions/lessons/rest-operator/theory_unit
+[spread operator]: https://ru.hexlet.io/courses/js-functions/lessons/spread-operator/theory_unit
+[destructuring parameters]: https://ru.hexlet.io/courses/js-functions/lessons/params-destructuring/theory_unit
+[first class objects]: https://ru.hexlet.io/courses/js-functions/lessons/first-class-citizen/theory_unit
+[higher order functions]: https://ru.hexlet.io/courses/js-functions/lessons/high-order-functions/theory_unit
+
 <h1 align="center">
   Personal skills profile
 </h1>
@@ -184,15 +192,15 @@
   Module 3: Professional JavaScript
 </h2>
 
-|JS: Objects              |
-|-------------------------|
-| 🟩 [syntax]             |
-| 🟩 [modification]       |
-| 🟩 [reference type]     |
-| 🟩 [usage]              |
-| 🟩 [existence of a property]|
-| 🟩 [traversing object properties]|
-| 🟩 [nested objects]     |
+|JS: Objects              |JS: Functions      |
+|-------------------------|-------------------|
+| 🟩 [syntax]             | 🟩 [pure functions]|
+| 🟩 [modification]       | 🟩 [separation of commands and requests]|
+| 🟩 [reference type]     | 🟩 [rest operator]|
+| 🟩 [usage]              | 🟩 [spread operator]|
+| 🟩 [existence of a property]| 🟩 [destructuring parameters]|
+| 🟩 [traversing object properties]| 🟩 [first class objects]|
+| 🟩 [nested objects]     | 🟩 [higher order functions]|
 | 🟩 [merge]              |
 | 🟩 [cloning]            |
 | 🟩 [spread]             |
