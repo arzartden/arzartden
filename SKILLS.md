@@ -118,6 +118,8 @@
 [filter()]: https://ru.hexlet.io/courses/js-functions/lessons/filter/theory_unit
 [reduce()]: https://ru.hexlet.io/courses/js-functions/lessons/reduce/theory_unit
 [signals]: https://ru.hexlet.io/courses/js-functions/lessons/signals/theory_unit
+[recursion]: https://ru.hexlet.io/courses/js-functions/lessons/recursion/theory_unit
+[iterative process]: https://ru.hexlet.io/courses/js-functions/lessons/iterative/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -160,35 +162,39 @@
   Module 2: Basics of programming (JS)
 </h2>
 
-| Basics of the JavaScript language|JS: Arrays          |Additional topics      |
-|--------------------------------|----------------------|-----------------------|
-| 🟩 [strings]                   | 🟩 [syntax]          | 🟩 [command line basics]|
-| 🟩 [variables]                 | 🟩 [modification]| 🟩 [introduction to Git]    | 
-| 🟩 [expressions]               | 🟩 [existence of a value]| 
-| 🟩 [interpolation]             | 🟩 [for]                 | 
-| 🟩 [data types]                | 🟩 [references]          | 
-| 🟩 [functions and their call], [signature]| 🟩 [aggregation]|
-| 🟩 [determinism]               | 🟩 [for...of]|
-| 🟩 [properties and methods]    | 🟩 [deleting array elements]| 
-| 🟩 [method chaining]           | 🟩 [control statements]|
-| 🟩 [defining functions]        | 🟩 [nested arrays]|
-| 🟩 [returning function values] | 🟩 [generating a string in a loop]|
-| 🟩 [function parameters]       | 🟩 [converting a string to an array]|
-| 🟩 [default function parameters]| 🟩 [nested loops]|
-| 🟩 [simplified function syntax]| 🟩 [set theory]|
-| 🟩 [logical operations]        | 🟩 [sorting]|
-| 🟩 [logical operators]         | 🟩 [stack]|
-| 🟩 [logical expressions]       | 🟩 [big O]|
-| 🟩 [conditional constructions] | 🟩 [destructuring assignment]|
-| 🟩 [ternary operator]          | 🟩 [rest operator]|
-| 🟩 [switch]                    | 🟩 [spread operator]|
-| 🟩 [while]                     | 🟩 [arrays in computer memory]|
-| 🟩 [aggregation]               |
-| 🟩 [iteration over strings]    |
-| 🟩 [conditions inside loops]   |
-| 🟩 [increment and decrement]   |
-| 🟩 [for]                       |
-| 🟩 [modules]                   |
+<div align="center">
+  
+  | Basics of the JavaScript language|JS: Arrays          |Additional topics      |
+  |--------------------------------|----------------------|-----------------------|
+  | 🟩 [strings]                   | 🟩 [syntax]          | 🟩 [command line basics]|
+  | 🟩 [variables]                 | 🟩 [modification]| 🟩 [introduction to Git]    | 
+  | 🟩 [expressions]               | 🟩 [existence of a value]| 
+  | 🟩 [interpolation]             | 🟩 [for]                 | 
+  | 🟩 [data types]                | 🟩 [references]          | 
+  | 🟩 [functions and their call], [signature]| 🟩 [aggregation]|
+  | 🟩 [determinism]               | 🟩 [for...of]|
+  | 🟩 [properties and methods]    | 🟩 [deleting array elements]| 
+  | 🟩 [method chaining]           | 🟩 [control statements]|
+  | 🟩 [defining functions]        | 🟩 [nested arrays]|
+  | 🟩 [returning function values] | 🟩 [generating a string in a loop]|
+  | 🟩 [function parameters]       | 🟩 [converting a string to an array]|
+  | 🟩 [default function parameters]| 🟩 [nested loops]|
+  | 🟩 [simplified function syntax]| 🟩 [set theory]|
+  | 🟩 [logical operations]        | 🟩 [sorting]|
+  | 🟩 [logical operators]         | 🟩 [stack]|
+  | 🟩 [logical expressions]       | 🟩 [big O]|
+  | 🟩 [conditional constructions] | 🟩 [destructuring assignment]|
+  | 🟩 [ternary operator]          | 🟩 [rest operator]|
+  | 🟩 [switch]                    | 🟩 [spread operator]|
+  | 🟩 [while]                     | 🟩 [arrays in computer memory]|
+  | 🟩 [aggregation]               |
+  | 🟩 [iteration over strings]    |
+  | 🟩 [conditions inside loops]   |
+  | 🟩 [increment and decrement]   |
+  | 🟩 [for]                       |
+  | 🟩 [modules]                   |
+ 
+</div>
 
 <br>
 
@@ -209,4 +215,5 @@
 | 🟩 [cloning]            | 🟩 [filter()]|
 | 🟩 [spread]             | 🟩 [reduce()]|
 | 🟩 [destructurization]  | 🟩 [signals]|
-| 🟩 [hash tables]        | 🟩 |
+| 🟩 [hash tables]        | 🟩 [recursion]|
+|                         | 🟩 [iterative process]|
