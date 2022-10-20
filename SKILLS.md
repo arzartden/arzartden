@@ -114,6 +114,10 @@
 [destructuring parameters]: https://ru.hexlet.io/courses/js-functions/lessons/params-destructuring/theory_unit
 [first class objects]: https://ru.hexlet.io/courses/js-functions/lessons/first-class-citizen/theory_unit
 [higher order functions]: https://ru.hexlet.io/courses/js-functions/lessons/high-order-functions/theory_unit
+[map()]: https://ru.hexlet.io/courses/js-functions/lessons/map/theory_unit
+[filter()]: https://ru.hexlet.io/courses/js-functions/lessons/filter/theory_unit
+[reduce()]: https://ru.hexlet.io/courses/js-functions/lessons/reduce/theory_unit
+[signals]: https://ru.hexlet.io/courses/js-functions/lessons/signals/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -201,8 +205,8 @@
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]|
 | 🟩 [traversing object properties]| 🟩 [first class objects]|
 | 🟩 [nested objects]     | 🟩 [higher order functions]|
-| 🟩 [merge]              |
-| 🟩 [cloning]            |
-| 🟩 [spread]             |
-| 🟩 [destructurization]  |
-| 🟩 [hash tables]        |
+| 🟩 [merge]              | 🟩 [map()]|
+| 🟩 [cloning]            | 🟩 [filter()]|
+| 🟩 [spread]             | 🟩 [reduce()]|
+| 🟩 [destructurization]  | 🟩 [signals]|
+| 🟩 [hash tables]        | 🟩 |
