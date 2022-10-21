@@ -120,6 +120,7 @@
 [signals]: https://ru.hexlet.io/courses/js-functions/lessons/signals/theory_unit
 [recursion]: https://ru.hexlet.io/courses/js-functions/lessons/recursion/theory_unit
 [iterative process]: https://ru.hexlet.io/courses/js-functions/lessons/iterative/theory_unit
+[abstraction]: https://ru.hexlet.io/courses/js-functions/lessons/abstraction/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -217,3 +218,4 @@
 | 🟩 [destructurization]  | 🟩 [signals]|
 | 🟩 [hash tables]        | 🟩 [recursion]|
 |                         | 🟩 [iterative process]|
+|                         | 🟩 [abstraction]|
