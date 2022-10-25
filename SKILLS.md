@@ -127,6 +127,8 @@
 [Jest]: https://ru.hexlet.io/courses/js-testing/lessons/jest/theory_unit
 [matchers]: https://ru.hexlet.io/courses/js-testing/lessons/matchers/theory_unit
 [unit tests]: https://ru.hexlet.io/courses/js-testing/lessons/unit-tests/theory_unit
+[data preparation]: https://ru.hexlet.io/courses/js-testing/lessons/setup/theory_unit
+[bad practices]: https://ru.hexlet.io/courses/js-testing/lessons/bad-practice/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -216,11 +218,11 @@
 | 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]|
 | 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]|
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]|
-| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 |
-| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 |
-| 🟩 [merge]              | 🟩 [map()]|
-| 🟩 [cloning]            | 🟩 [filter()]|
-| 🟩 [spread]             | 🟩 [reduce()]|
+| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]|
+| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]|
+| 🟩 [merge]              | 🟩 [map()]| 🟩 |
+| 🟩 [cloning]            | 🟩 [filter()]| 🟩 |
+| 🟩 [spread]             | 🟩 [reduce()]| 🟩 |
 | 🟩 [destructurization]  | 🟩 [signals]|
 | 🟩 [hash tables]        | 🟩 [recursion]|
 |                         | 🟩 [iterative process]|
