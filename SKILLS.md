@@ -122,6 +122,12 @@
 [iterative process]: https://ru.hexlet.io/courses/js-functions/lessons/iterative/theory_unit
 [abstraction]: https://ru.hexlet.io/courses/js-functions/lessons/abstraction/theory_unit
 
+[assert]: https://ru.hexlet.io/courses/js-testing/lessons/asserts/theory_unit
+[power-assert]: https://ru.hexlet.io/courses/js-testing/lessons/power-assert/theory_unit
+[Jest]: https://ru.hexlet.io/courses/js-testing/lessons/jest/theory_unit
+[matchers]: https://ru.hexlet.io/courses/js-testing/lessons/matchers/theory_unit
+[unit tests]: https://ru.hexlet.io/courses/js-testing/lessons/unit-tests/theory_unit
+
 <h1 align="center">
   Personal skills profile
 </h1>
@@ -203,15 +209,15 @@
   Module 3: Professional JavaScript
 </h2>
 
-|JS: Objects              |JS: Functions      |
-|-------------------------|-------------------|
-| 🟩 [syntax]             | 🟩 [pure functions]|
-| 🟩 [modification]       | 🟩 [separation of commands and requests]|
-| 🟩 [reference type]     | 🟩 [rest operator]|
-| 🟩 [usage]              | 🟩 [spread operator]|
-| 🟩 [existence of a property]| 🟩 [destructuring parameters]|
-| 🟩 [traversing object properties]| 🟩 [first class objects]|
-| 🟩 [nested objects]     | 🟩 [higher order functions]|
+|JS: Objects              |JS: Functions      |JS: Automatic Testing|
+|-------------------------|-------------------|---------------------|
+| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]|
+| 🟩 [modification]       | 🟩 [separation of commands and requests]| 🟩 [power-assert]|
+| 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]|
+| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]|
+| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]|
+| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 |
+| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 |
 | 🟩 [merge]              | 🟩 [map()]|
 | 🟩 [cloning]            | 🟩 [filter()]|
 | 🟩 [spread]             | 🟩 [reduce()]|
