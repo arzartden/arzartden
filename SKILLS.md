@@ -214,9 +214,9 @@
   Module 3: Professional JavaScript
 </h2>
 
-|JS: Objects              |JS: Functions      |JS: Automatic Testing|
-|-------------------------|-------------------|---------------------|
-| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]|
+|JS: Objects              |JS: Functions      |JS: Automatic Testing|JS: Abstraction with Data|
+|-------------------------|-------------------|---------------------|-------------------------|
+| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]| 🟩 ontology|
 | 🟩 [modification]       | 🟩 [command query separation ]| 🟩 [power-assert]|
 | 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]|
 | 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]|
