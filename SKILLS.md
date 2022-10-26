@@ -108,7 +108,7 @@
 [hash tables]: https://ru.hexlet.io/courses/js-objects/lessons/hash-table/theory_unit
 
 [pure functions]: https://ru.hexlet.io/courses/js-functions/lessons/pure-functions/theory_unit
-[separation of commands and requests]: https://ru.hexlet.io/courses/js-functions/lessons/command-query-separation/theory_unit
+[command query separation ]: https://ru.hexlet.io/courses/js-functions/lessons/command-query-separation/theory_unit
 [rest operator]: https://ru.hexlet.io/courses/js-functions/lessons/rest-operator/theory_unit
 [spread operator]: https://ru.hexlet.io/courses/js-functions/lessons/spread-operator/theory_unit
 [destructuring parameters]: https://ru.hexlet.io/courses/js-functions/lessons/params-destructuring/theory_unit
@@ -217,7 +217,7 @@
 |JS: Objects              |JS: Functions      |JS: Automatic Testing|
 |-------------------------|-------------------|---------------------|
 | 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]|
-| 🟩 [modification]       | 🟩 [separation of commands and requests]| 🟩 [power-assert]|
+| 🟩 [modification]       | 🟩 [command query separation ]| 🟩 [power-assert]|
 | 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]|
 | 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]|
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]|
