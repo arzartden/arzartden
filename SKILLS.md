@@ -129,6 +129,9 @@
 [unit tests]: https://ru.hexlet.io/courses/js-testing/lessons/unit-tests/theory_unit
 [data preparation]: https://ru.hexlet.io/courses/js-testing/lessons/setup/theory_unit
 [bad practices]: https://ru.hexlet.io/courses/js-testing/lessons/bad-practice/theory_unit
+[code coverage]: https://ru.hexlet.io/courses/js-testing/lessons/code-coverage/theory_unit
+[TDD]: https://ru.hexlet.io/courses/js-testing/lessons/tdd/theory_unit
+[CI]: https://ru.hexlet.io/courses/js-testing/lessons/ci/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -220,9 +223,9 @@
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]|
 | 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]|
 | 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]|
-| 🟩 [merge]              | 🟩 [map()]| 🟩 |
-| 🟩 [cloning]            | 🟩 [filter()]| 🟩 |
-| 🟩 [spread]             | 🟩 [reduce()]| 🟩 |
+| 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|
+| 🟩 [cloning]            | 🟩 [filter()]| 🟩 [TDD]|
+| 🟩 [spread]             | 🟩 [reduce()]| 🟩 [CI]|
 | 🟩 [destructurization]  | 🟩 [signals]|
 | 🟩 [hash tables]        | 🟩 [recursion]|
 |                         | 🟩 [iterative process]|
