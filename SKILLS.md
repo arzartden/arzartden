@@ -139,6 +139,7 @@
 [creating an abstraction]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/abstractions/theory_unit
 [interfaces]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/interface/theory_unit
 [level design]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/levels/theory_unit
+[invariants]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/invariants/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -229,7 +230,7 @@
 | 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]|
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]|
 | 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]|
-| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 
+| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 [invariants]|
 | 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|
 | 🟩 [cloning]            | 🟩 [filter()]| 🟩 [TDD]|
 | 🟩 [spread]             | 🟩 [reduce()]| 🟩 [CI]|
