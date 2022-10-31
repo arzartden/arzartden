@@ -108,7 +108,7 @@
 [hash tables]: https://ru.hexlet.io/courses/js-objects/lessons/hash-table/theory_unit
 
 [pure functions]: https://ru.hexlet.io/courses/js-functions/lessons/pure-functions/theory_unit
-[command query separation ]: https://ru.hexlet.io/courses/js-functions/lessons/command-query-separation/theory_unit
+[command query separation]: https://ru.hexlet.io/courses/js-functions/lessons/command-query-separation/theory_unit
 [rest operator]: https://ru.hexlet.io/courses/js-functions/lessons/rest-operator/theory_unit
 [spread operator]: https://ru.hexlet.io/courses/js-functions/lessons/spread-operator/theory_unit
 [destructuring parameters]: https://ru.hexlet.io/courses/js-functions/lessons/params-destructuring/theory_unit
@@ -132,6 +132,13 @@
 [code coverage]: https://ru.hexlet.io/courses/js-testing/lessons/code-coverage/theory_unit
 [TDD]: https://ru.hexlet.io/courses/js-testing/lessons/tdd/theory_unit
 [CI]: https://ru.hexlet.io/courses/js-testing/lessons/ci/theory_unit
+
+[ontology]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/ontology/theory_unit
+[points]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/points/theory_unit
+[array semantics]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/arrays/theory_unit
+[creating an abstraction]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/abstractions/theory_unit
+[interfaces]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/interface/theory_unit
+[level design]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/levels/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -216,13 +223,13 @@
 
 |JS: Objects              |JS: Functions      |JS: Automatic Testing|JS: Abstraction with Data|
 |-------------------------|-------------------|---------------------|-------------------------|
-| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]| 🟩 ontology|
-| 🟩 [modification]       | 🟩 [command query separation ]| 🟩 [power-assert]|
-| 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]|
-| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]|
-| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]|
-| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]|
-| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]|
+| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]        | 🟩 [ontology]|
+| 🟩 [modification]       | 🟩 [command query separation]| 🟩 [power-assert]| 🟩 [points]|
+| 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]| 🟩 [array semantics]|
+| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]|
+| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]|
+| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]|
+| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 
 | 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|
 | 🟩 [cloning]            | 🟩 [filter()]| 🟩 [TDD]|
 | 🟩 [spread]             | 🟩 [reduce()]| 🟩 [CI]|
