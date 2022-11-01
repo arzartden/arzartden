@@ -141,6 +141,10 @@
 [level design]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/levels/theory_unit
 [invariants]: https://ru.hexlet.io/courses/js-data-abstraction/lessons/invariants/theory_unit
 
+[definitions]: https://ru.hexlet.io/courses/js-trees/lessons/definition/theory_unit
+[virtual file system]: https://ru.hexlet.io/courses/js-trees/lessons/filetree/theory_unit
+[manipulations]: https://ru.hexlet.io/courses/js-trees/lessons/manipulations/theory_unit
+
 <h1 align="center">
   Personal skills profile
 </h1>
@@ -222,13 +226,13 @@
   Module 3: Professional JavaScript
 </h2>
 
-|JS: Objects              |JS: Functions      |JS: Automatic Testing|JS: Abstraction with Data|
-|-------------------------|-------------------|---------------------|-------------------------|
-| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]        | 🟩 [ontology]|
-| 🟩 [modification]       | 🟩 [command query separation]| 🟩 [power-assert]| 🟩 [points]|
-| 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]| 🟩 [array semantics]|
-| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]|
-| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]|
+|JS: Objects              |JS: Functions      |JS: Automatic Testing|JS: Abstraction with Data|JS: Trees|
+|-------------------------|-------------------|---------------------|-------------------------|---------|
+| 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]        | 🟩 [ontology]| 🟩 [definitions]|
+| 🟩 [modification]       | 🟩 [command query separation]| 🟩 [power-assert]| 🟩 [points]| 🟩 [virtual file system]|
+| 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]| 🟩 [array semantics]| 🟩 [manipulations]|
+| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]| 🟩 |
+| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]| 🟩 |
 | 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]|
 | 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 [invariants]|
 | 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|
