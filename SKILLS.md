@@ -144,6 +144,10 @@
 [definitions]: https://ru.hexlet.io/courses/js-trees/lessons/definition/theory_unit
 [virtual file system]: https://ru.hexlet.io/courses/js-trees/lessons/filetree/theory_unit
 [manipulations]: https://ru.hexlet.io/courses/js-trees/lessons/manipulations/theory_unit
+[tree traversal]: https://ru.hexlet.io/courses/js-trees/lessons/traversal/theory_unit
+[aggregation]: https://ru.hexlet.io/courses/js-trees/lessons/aggregation/theory_unit
+[other aggregation]: https://ru.hexlet.io/courses/js-trees/lessons/calculate/theory_unit
+[accumulator]: https://ru.hexlet.io/courses/js-trees/lessons/accumulator/theory_unit
 
 <h1 align="center">
   Personal skills profile
@@ -231,10 +235,10 @@
 | 🟩 [syntax]             | 🟩 [pure functions]| 🟩 [assert]        | 🟩 [ontology]| 🟩 [definitions]|
 | 🟩 [modification]       | 🟩 [command query separation]| 🟩 [power-assert]| 🟩 [points]| 🟩 [virtual file system]|
 | 🟩 [reference type]     | 🟩 [rest operator]| 🟩 [Jest]| 🟩 [array semantics]| 🟩 [manipulations]|
-| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]| 🟩 |
-| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]| 🟩 |
-| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]|
-| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 [invariants]|
+| 🟩 [usage]              | 🟩 [spread operator]| 🟩 [matchers]| 🟩 [creating an abstraction]| 🟩 [tree traversal]|
+| 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]| 🟩 [aggregation]|
+| 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]| 🟩 [other aggregation]|
+| 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 [invariants]| 🟩 [accumulator]|
 | 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|
 | 🟩 [cloning]            | 🟩 [filter()]| 🟩 [TDD]|
 | 🟩 [spread]             | 🟩 [reduce()]| 🟩 [CI]|
