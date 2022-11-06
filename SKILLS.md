@@ -240,7 +240,7 @@
 | 🟩 [existence of a property]| 🟩 [destructuring parameters]| 🟩 [unit tests]| 🟩 [interfaces]| 🟩 [aggregation]|
 | 🟩 [traversing object properties]| 🟩 [first class objects]| 🟩 [data preparation]| 🟩 [level design]| 🟩 [other aggregation]|
 | 🟩 [nested objects]     | 🟩 [higher order functions]| 🟩 [bad practices]| 🟩 [invariants]| 🟩 [accumulator]|
-| 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]| 🟩 [HTML tree]|
+| 🟩 [merge]              | 🟩 [map()]| 🟩 [code coverage]|                                 | 🟩 [HTML tree]|
 | 🟩 [cloning]            | 🟩 [filter()]| 🟩 [TDD]|
 | 🟩 [spread]             | 🟩 [reduce()]| 🟩 [CI]|
 | 🟩 [destructurization]  | 🟩 [signals]|
