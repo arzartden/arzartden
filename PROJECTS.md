@@ -9,4 +9,5 @@ The Brain Games is a set of five console games built on the principle of popular
 
 <br>
 
-- ### [Difference generator (frontend-project-lvl2)](https://github.com/arzartden/frontend-project-lvl2)
+- ### <code>[The Generate Difference Project](https://github.com/arzartden/frontend-project-lvl2)</code>
+Difference Calculator is a program that determines the difference between two data structures. This is a popular task, for which there are many online services, for example http://www.jsondiff.com. A similar mechanism is used when outputting tests or when automatically tracking changes in configuration files.
