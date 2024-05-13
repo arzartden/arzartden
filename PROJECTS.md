@@ -18,8 +18,10 @@
 
 <br>
 
+<!---
 ### [Website for a landscape designer](https://github.com/arzartden/landscape-designer)
 
 > **EN:** At the moment, the project is not finished and is in the process of development. The visibility of the repository has been changed to familiarize with the code.
 >
 > **RU:** В данный момент проект не закончен и находится в процессе разработки. Видимость репозитория изменена для ознакомления с кодом.
+--->
